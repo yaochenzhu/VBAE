@@ -3,7 +3,7 @@
  The codes are associated with the following paper:
  >**Collaborative Variational Bandwidth Auto-encoder for Recommender Systems,**  
  >Yaochen Zhu and Zhenzhong Chen.  
- >IEEE TKDE, 2022. [[pdf]](https://arxiv.org/abs/2105.07597). 
+ >*IEEE Trans. Knowl. Data Eng., 2022.* [[pdf]](https://arxiv.org/abs/2105.07597). 
 
 
 ## Environment
