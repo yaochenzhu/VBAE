@@ -1,9 +1,9 @@
-# Collaborative Variational Bandwidth Auto-encoder
+# VBAE: Variational Bandwidth Auto-encoder
 
  The codes are associated with the following paper:
  >**Collaborative Variational Bandwidth Auto-encoder for Recommender Systems,**  
  >Yaochen Zhu and Zhenzhong Chen.  
- >ArXiv.2105.07597, Preprints. 2021. [[pdf]](https://arxiv.org/abs/2105.07597). 
+ >IEEE TKDE, 2022. [[pdf]](https://arxiv.org/abs/2105.07597). 
 
 
 ## Environment
@@ -50,8 +50,8 @@ For usage, create a data folder and move in the unzipped datasets.
 If you find our codes helpful, please kindly cite the following paper. Thanks!
 
 	@article{vbae_zhu2021,
-	  title={Collaborative Variational Bandwidth Auto-encoder for Recommender Systems},
+	  title={Variational Bandwidth Auto-encoder for Hybrid Recommender Systems},
 	  author={Zhu, Yaochen and Chen, Zhenzhong},
-	  booktitle={arXiv preprint arXiv:2105.07597},
-	  year={2021},
+	  booktitle={IEEE Trans. Knowl. Data Eng.},
+	  year={2022},
 	}	
